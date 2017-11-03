@@ -2,6 +2,14 @@
 
 1. 分页组件 
 
+## 项目启动
+```javascript
+1. npm i
+2. npm run dev
+```
+## 效果查看地址
+##### [效果查看](https://huangchucai.github.io/Vue-component/dist/index.html)
+
 ### 分页组件使用
 
 1.  应用pagination组件到对应的页面
